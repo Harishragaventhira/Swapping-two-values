@@ -18,12 +18,15 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```a=int(input(""))
+```py
+a=int(input(""))
 b=int(input(""))
 a,b=b,a
-print("Swapped values are:",a,b)```
-#output
-![image](https://github.com/Harishragaventhira/Swapping-two-values/assets/145548269/d857c2b9-1f7e-4ce6-bd07-fee20ec10972)
+print("Swapped values are:",a,b)
+```
+## OUTPUT:
+![Screenshot 2024-01-02 082118](https://github.com/Harishragaventhira/Swapping-two-values/assets/145548269/3b2bbcf0-06e8-4b7c-b701-2ca904f50801)
+
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
