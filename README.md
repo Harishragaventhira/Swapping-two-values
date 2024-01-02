@@ -24,13 +24,6 @@ a,b=b,a
 print("Swapped values are:",a,b)```
 # output
 ![image](https://github.com/Harishragaventhira/Swapping-two-values/assets/145548269/d857c2b9-1f7e-4ce6-bd07-fee20ec10972)
-# resultthus
-the swapping of two values are successfully executed
-
-
-
-
-
 ## RESULT:
 Thus the swapping of two values are successfully executed
 
