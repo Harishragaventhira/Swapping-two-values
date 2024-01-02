@@ -22,7 +22,7 @@ End the program
 b=int(input(""))
 a,b=b,a
 print("Swapped values are:",a,b)```
-# output
+#output
 ![image](https://github.com/Harishragaventhira/Swapping-two-values/assets/145548269/d857c2b9-1f7e-4ce6-bd07-fee20ec10972)
 ## RESULT:
 Thus the swapping of two values are successfully executed
